@@ -65,4 +65,8 @@ $(document).ready(function(){
     function layDanhSachNguoiDung(){
         nguoiDungService.layDanhSachNguoiDung();
     }
+    function moiTaoBranch()
+    {
+        
+    }
 })
