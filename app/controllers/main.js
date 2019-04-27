@@ -67,6 +67,6 @@ $(document).ready(function(){
     }
     function moiTaoBranch()
     {
-        
+        console.log("Thêm mới");
     }
 })
